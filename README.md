@@ -17,3 +17,30 @@ The main purpose of this repository is to understand the fundamentals of
 and databases** through practical learning and hands-on coding.
 
 ---
+
+## 📚 Season 1 — Episodes
+
+### 🟢 Getting Started with Node.js
+
+- **Episode-00 | Welcome to Namaste Node.js**
+- **Episode-01 | Introduction to Node.js**
+- **Episode-02 | JS on Server**
+- **Episode-03 | Let's write code**
+- **Episode-04 | module.export & require**
+- **Episode-05 | Diving into the Node.js github repo**
+
+### ⚙️ Node.js Internals & Asynchronous Programming
+
+- **Episode-06 | libuv & async IO**
+- **Episode-07 | sync, async, setTimeoutZero - code**
+- **Episode-08 | Deep dive into v8 JS Engine**
+- **Episode-09 | Libuv & Event Loop**
+- **Episode-10 | Thread pool in libuv**
+- **Episode-11 | Creating a Server**
+
+### 🗄️ Databases
+
+- **Episode-12 | Databases - SQL & NoSQL**
+- **Episode-13 | Creating a database & mongodb**
+
+---
