@@ -44,3 +44,28 @@ and databases** through practical learning and hands-on coding.
 - **Episode-13 | Creating a database & mongodb**
 
 ---
+
+## 🧠 Key Concepts Covered
+
+Throughout Season 1, I explored concepts such as:
+
+- Node.js fundamentals
+- JavaScript on the server
+- Node.js runtime
+- V8 JavaScript Engine
+- Node.js GitHub repository
+- CommonJS modules
+- `module.exports`
+- `require`
+- Libuv
+- Asynchronous I/O
+- Synchronous vs Asynchronous execution
+- `setTimeout(0)`
+- Event Loop
+- Thread Pool
+- Creating a Node.js server
+- SQL vs NoSQL databases
+- MongoDB
+- Database creation and interaction
+
+---
